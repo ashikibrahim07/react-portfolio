@@ -1,7 +1,7 @@
 import React from "react";
 import linkedinIcon from "../assets/linkedin.png";
 import githubIcon from "../assets/github.png";
-import resumeExamplePDF from "../assets/Ashik_Ibrahim_Web_Developer_Resume.pdf";
+import resumeExamplePDF from "../assets/Ashik_Ibrahim_S_Web_Developer_Resume.pdf";
 import Tooltip from "@mui/material/Tooltip";
 
 function ProfileSection() {
