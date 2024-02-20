@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio-react/static/css/main.508e8514.css",
+    "main.js": "/personal-portfolio-react/static/js/main.e3dc0bff.js",
+    "static/media/FB Lite Clone.jpg": "/personal-portfolio-react/static/media/FB Lite Clone.f82b6ef8f816bef8b1fe.jpg",
+    "static/media/Ashik_Ibrahim_Web_Developer_Resume.pdf": "/personal-portfolio-react/static/media/Ashik_Ibrahim_Web_Developer_Resume.f4c06c40ab1fd4256cd2.pdf",
+    "static/media/what-todo.png": "/personal-portfolio-react/static/media/what-todo.38cbb7e0c310fe66363c.png",
+    "static/media/persblog.jpg": "/personal-portfolio-react/static/media/persblog.5c60f2613f0a16243e79.jpg",
+    "static/media/email.png": "/personal-portfolio-react/static/media/email.761df3bc69bdc631bd2f.png",
+    "static/media/checkmark.png": "/personal-portfolio-react/static/media/checkmark.86728d9a224a2c7c95d4.png",
+    "static/media/arrow.png": "/personal-portfolio-react/static/media/arrow.0dfabb0beab795eea0ab.png",
+    "static/media/linkedin.png": "/personal-portfolio-react/static/media/linkedin.032cf8a63be2f0f4d425.png",
+    "index.html": "/personal-portfolio-react/index.html",
+    "main.508e8514.css.map": "/personal-portfolio-react/static/css/main.508e8514.css.map",
+    "main.e3dc0bff.js.map": "/personal-portfolio-react/static/js/main.e3dc0bff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.508e8514.css",
+    "static/js/main.e3dc0bff.js"
+  ]
+}
