@@ -46,6 +46,11 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 
 2. Open your browser and visit `http://localhost:3000` to view the portfolio.
 
+# Live Demo
+
+You can view the live demo of the project [here](https://ashikibrahim07.github.io/personal-portfolio-react/).
+
+
 ## Author
 
 Ashik Ibrahim S
