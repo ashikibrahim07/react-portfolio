@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/personal-portfolio-react/static/css/main.0681a84c.css",
+    "main.css": "/personal-portfolio-react/static/css/main.ed4b21d5.css",
     "main.js": "/personal-portfolio-react/static/js/main.d99559de.js",
     "static/media/FB Lite Clone.jpg": "/personal-portfolio-react/static/media/FB Lite Clone.f82b6ef8f816bef8b1fe.jpg",
     "static/media/Ashik_Ibrahim_S_Web_Developer_Resume.pdf": "/personal-portfolio-react/static/media/Ashik_Ibrahim_S_Web_Developer_Resume.a740fb4d2bd185c35e1c.pdf",
@@ -11,11 +11,11 @@
     "static/media/arrow.png": "/personal-portfolio-react/static/media/arrow.0dfabb0beab795eea0ab.png",
     "static/media/linkedin.png": "/personal-portfolio-react/static/media/linkedin.032cf8a63be2f0f4d425.png",
     "index.html": "/personal-portfolio-react/index.html",
-    "main.0681a84c.css.map": "/personal-portfolio-react/static/css/main.0681a84c.css.map",
+    "main.ed4b21d5.css.map": "/personal-portfolio-react/static/css/main.ed4b21d5.css.map",
     "main.d99559de.js.map": "/personal-portfolio-react/static/js/main.d99559de.js.map"
   },
   "entrypoints": [
-    "static/css/main.0681a84c.css",
+    "static/css/main.ed4b21d5.css",
     "static/js/main.d99559de.js"
   ]
 }
