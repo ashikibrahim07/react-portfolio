@@ -7,7 +7,7 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 - **Responsive Design:** The portfolio is designed to be fully responsive, ensuring a great user experience across all devices.
 - **Project Showcase:** Display my projects with descriptions, images, and links to GitHub, live demos and video demos.
 - **Experience Section:** Highlight my skills and experiences in a clean and organized layout.
-- **Contact Information:** Provide ways for visitors to get in touch with me, such as email or social media links.
+- **Contact Information:** Provide ways for visitors to get in touch with me, such as email and social media links.
 
 ## Technologies Used
 
