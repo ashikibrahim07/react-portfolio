@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal-portfolio-react/static/css/main.888c6b2c.css",
-    "main.js": "/personal-portfolio-react/static/js/main.15f04ed5.js",
+    "main.css": "/personal-portfolio-react/static/css/main.49cf3d95.css",
+    "main.js": "/personal-portfolio-react/static/js/main.7ffbb026.js",
     "static/media/FB Lite Clone.jpg": "/personal-portfolio-react/static/media/FB Lite Clone.f82b6ef8f816bef8b1fe.jpg",
     "static/media/Ashik_Ibrahim_S_Web_Developer_Resume.pdf": "/personal-portfolio-react/static/media/Ashik_Ibrahim_S_Web_Developer_Resume.a740fb4d2bd185c35e1c.pdf",
     "static/media/what-todo.png": "/personal-portfolio-react/static/media/what-todo.38cbb7e0c310fe66363c.png",
@@ -12,11 +12,11 @@
     "static/media/postgreSQL.png": "/personal-portfolio-react/static/media/postgreSQL.97198e49e48397e22a12.png",
     "static/media/linkedin.png": "/personal-portfolio-react/static/media/linkedin.032cf8a63be2f0f4d425.png",
     "index.html": "/personal-portfolio-react/index.html",
-    "main.888c6b2c.css.map": "/personal-portfolio-react/static/css/main.888c6b2c.css.map",
-    "main.15f04ed5.js.map": "/personal-portfolio-react/static/js/main.15f04ed5.js.map"
+    "main.49cf3d95.css.map": "/personal-portfolio-react/static/css/main.49cf3d95.css.map",
+    "main.7ffbb026.js.map": "/personal-portfolio-react/static/js/main.7ffbb026.js.map"
   },
   "entrypoints": [
-    "static/css/main.888c6b2c.css",
-    "static/js/main.15f04ed5.js"
+    "static/css/main.49cf3d95.css",
+    "static/js/main.7ffbb026.js"
   ]
 }
