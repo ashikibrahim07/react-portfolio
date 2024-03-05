@@ -21,10 +21,10 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 
 ## Technologies Used
 
-- `React:`Used for building the frontend user interface and managing state.
-- **Material UI:** Provides a set of React components that implement Google's Material Design.
-- **HTML/CSS:** Used for styling and structuring the content.
-- **GitHub Pages:** Used for hosting the portfolio website.
+- `React`Used for building the frontend user interface and managing state.
+- `Material UI` Provides a set of React components that implement Google's Material Design.
+- `HTML/CSS` Used for styling and structuring the content.
+- `GitHub Pages` Used for hosting the portfolio website.
 
 ## Installation
 
