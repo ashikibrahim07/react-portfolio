@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio! This project showcases my skills, projects, and experiences. It's built using React and Material UI.
 
-## Table of Contents
+**## Table of Contents
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -11,7 +11,8 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 - [Live Demo](#live-demo)
 - [Author](#author)
 - [License](#license)
-- 
+- [Acknowledgements](#acknowledgements)
+  
 ## Features
 
 - **Responsive Design:** The portfolio is designed to be fully responsive, ensuring a great user experience across all devices.
