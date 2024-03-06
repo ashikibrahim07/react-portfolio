@@ -60,6 +60,14 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 
 You can view the live demo of the project [here](https://ashikibrahim07.github.io/personal-portfolio-react/).
 
+# Screenshots
+
+
+# Contribution
+If you want to contribute to this project, please follow the guidelines outlined in CONTRIBUTING.md.
+
+# Acknowledgments
+- [Font Awesome](https://fontawesome.com/): Used for icons in the portfolio project.
 
 ## Author
 
