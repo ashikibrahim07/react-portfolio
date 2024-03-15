@@ -61,7 +61,7 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 
 # Live Demo
 
-You can view the live demo of the project [here](https://ashikibrahim07.github.io/personal-portfolio-react/).
+You can view the live demo of the personal portfolio [here](https://ashikibrahim07.github.io/personal-portfolio-react/).
 
 
 # Contribution
