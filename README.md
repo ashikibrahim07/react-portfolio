@@ -1,4 +1,4 @@
-# Personal Portfolio
+# Ashik Ibrahim's Personal Portfolio
 
 Welcome to my personal portfolio! This project showcases my skills, projects, and experiences. It's built using React and Material UI.
 
@@ -34,7 +34,7 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ashikibrahim07/personal-portfolio-react.git
+   git clone https://github.com/ashikibrahim07/ashik-ibrahim-portfolio-react.git
    ```
 
 2. Navigate to the project directory:
