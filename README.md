@@ -40,7 +40,7 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 2. Navigate to the project directory:
 
    ```bash
-   cd personal-portfolio-react
+   cd ashik-ibrahim-portfolio-react
    ```
 
 3. Install dependencies:
