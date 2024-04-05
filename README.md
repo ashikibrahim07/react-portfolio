@@ -18,15 +18,21 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 ## Features
 
 - **Responsive Design:** The portfolio is designed to be fully responsive, ensuring a great user experience across all devices.
+  
 - **Project Showcase:** Display my projects with descriptions, images, and links to GitHub, live demos and video demos.
+  
 - **Experience Section:** Highlight my skills and experiences in a clean and organized layout.
+  
 - **Contact Information:** Provide ways for visitors to get in touch with me, such as email and social media links.
 
 ## Technologies Used
 
 - `React`Used for building the frontend user interface and managing state.
+  
 - `Material UI` Provides a set of React components that implement Google's Material Design.
+  
 - `HTML/CSS` Used for styling and structuring the content.
+  
 - `GitHub Pages` Used for hosting the portfolio website.
 
 ## Installation
