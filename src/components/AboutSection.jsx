@@ -18,7 +18,7 @@ function AboutSection() {
                 className="icon"
               />
               <h3 className="exp-edu">Experience</h3>
-              <p>9 Months </p>
+              <p>11 Months </p>
               <p>Frontend Development </p>
               <p>Freelancer</p>
             </div>
