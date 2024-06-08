@@ -2,13 +2,16 @@
 
 Welcome to my personal portfolio! This project showcases my skills, projects, and experiences. It's built using React and Material UI.
 
+# Live Demo
+
+You can view the live demo of the personal portfolio [here](https://ashikibrahim07.github.io/ashik-ibrahim-portfolio-react/).
+
 ## Table of Contents
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Live Demo](#live-demo)
 - [Contribution](#contribution)
 - [Acknowledgements](#acknowledgements)
 - [Author](#author)
@@ -64,11 +67,6 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
    ```
 
 2. Open your browser and visit `http://localhost:3000` to view the portfolio.
-
-# Live Demo
-
-You can view the live demo of the personal portfolio [here](https://ashikibrahim07.github.io/ashik-ibrahim-portfolio-react/).
-
 
 # Contribution
 If you want to contribute to this project, please follow the guidelines outlined in CONTRIBUTING.md.
