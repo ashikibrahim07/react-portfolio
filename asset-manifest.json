@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/ashik-ibrahim-portfolio-react/static/css/main.e822c389.css",
-    "main.js": "/ashik-ibrahim-portfolio-react/static/js/main.e57524cd.js",
+    "main.css": "/ashik-ibrahim-portfolio-react/static/css/main.72ebe59e.css",
+    "main.js": "/ashik-ibrahim-portfolio-react/static/js/main.2b87b895.js",
     "static/media/FB Lite Clone.jpg": "/ashik-ibrahim-portfolio-react/static/media/FB Lite Clone.f82b6ef8f816bef8b1fe.jpg",
-    "static/media/Ashik_Ibrahim_S_Web_Developer_Resume.pdf": "/ashik-ibrahim-portfolio-react/static/media/Ashik_Ibrahim_S_Web_Developer_Resume.a740fb4d2bd185c35e1c.pdf",
+    "static/media/Ashik_Ibrahim_Web_Developer_Resume.pdf": "/ashik-ibrahim-portfolio-react/static/media/Ashik_Ibrahim_Web_Developer_Resume.19f3c61c2c5ea47d4996.pdf",
     "static/media/what-todo.png": "/ashik-ibrahim-portfolio-react/static/media/what-todo.38cbb7e0c310fe66363c.png",
     "static/media/rest-api.png": "/ashik-ibrahim-portfolio-react/static/media/rest-api.0c001914d19b0867048b.png",
     "static/media/persblog.jpg": "/ashik-ibrahim-portfolio-react/static/media/persblog.5c60f2613f0a16243e79.jpg",
@@ -12,11 +12,11 @@
     "static/media/postgreSQL.png": "/ashik-ibrahim-portfolio-react/static/media/postgreSQL.97198e49e48397e22a12.png",
     "static/media/linkedin.png": "/ashik-ibrahim-portfolio-react/static/media/linkedin.032cf8a63be2f0f4d425.png",
     "index.html": "/ashik-ibrahim-portfolio-react/index.html",
-    "main.e822c389.css.map": "/ashik-ibrahim-portfolio-react/static/css/main.e822c389.css.map",
-    "main.e57524cd.js.map": "/ashik-ibrahim-portfolio-react/static/js/main.e57524cd.js.map"
+    "main.72ebe59e.css.map": "/ashik-ibrahim-portfolio-react/static/css/main.72ebe59e.css.map",
+    "main.2b87b895.js.map": "/ashik-ibrahim-portfolio-react/static/js/main.2b87b895.js.map"
   },
   "entrypoints": [
-    "static/css/main.e822c389.css",
-    "static/js/main.e57524cd.js"
+    "static/css/main.72ebe59e.css",
+    "static/js/main.2b87b895.js"
   ]
 }
