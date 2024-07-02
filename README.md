@@ -1,6 +1,6 @@
 # Ashik Ibrahim's Personal Portfolio
 
-![Portfolio Preview](path/to/your/image.png)
+![Portfolio Preview](https://github.com/ashikibrahim07/ashik-ibrahim-portfolio-react/blob/main/Ashik%20Ibrahim%20S%20Portfolio%20Snap.png)
 
 Welcome to my personal portfolio! This project showcases my skills, projects, and experiences. It's built using React and Material UI.
 
