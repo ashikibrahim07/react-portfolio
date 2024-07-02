@@ -1,5 +1,7 @@
 # Ashik Ibrahim's Personal Portfolio
 
+![Portfolio Preview](path/to/your/image.png)
+
 Welcome to my personal portfolio! This project showcases my skills, projects, and experiences. It's built using React and Material UI.
 
 # Live Demo
