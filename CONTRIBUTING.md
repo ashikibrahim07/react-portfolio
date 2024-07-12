@@ -70,6 +70,7 @@ To set up a development environment, follow these steps:
 This will start the development server and open the project in your default browser. Any changes you make will automatically be reflected in the browser.
 
 4. **Build for production:**
+   
    ```sh
    npm run build
    ```
