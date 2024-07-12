@@ -58,24 +58,21 @@ To set up a development environment, follow these steps:
    cd your-repo
    ```
 2. **Install Dependancies:**
-
-```sh
+   ```sh
    npm install
-```
+   ```
 
 3. **Run the development server:**
-
-```sh
+   ```sh
    npm start
-```
+   ```
 
 This will start the development server and open the project in your default browser. Any changes you make will automatically be reflected in the browser.
 
 4. **Build for production:**
-
-```sh
+   ```sh
    npm run build
-```
+   ```
 
 This will create an optimized production build in the `build` directory.
 
