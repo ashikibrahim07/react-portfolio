@@ -1,20 +1,18 @@
 {
   "files": {
-    "main.css": "/ashik-ibrahim-portfolio-react/static/css/main.4ae008e2.css",
-    "main.js": "/ashik-ibrahim-portfolio-react/static/js/main.45f21d80.js",
+    "main.css": "/ashik-ibrahim-portfolio-react/static/css/main.a5258f7e.css",
+    "main.js": "/ashik-ibrahim-portfolio-react/static/js/main.cbf1425c.js",
     "static/media/FB Lite Clone.jpg": "/ashik-ibrahim-portfolio-react/static/media/FB Lite Clone.f82b6ef8f816bef8b1fe.jpg",
     "static/media/Ashik_Ibrahim_Web_Developer_Resume.pdf": "/ashik-ibrahim-portfolio-react/static/media/Ashik_Ibrahim_Web_Developer_Resume.19f3c61c2c5ea47d4996.pdf",
     "static/media/what-todo.png": "/ashik-ibrahim-portfolio-react/static/media/what-todo.38cbb7e0c310fe66363c.png",
     "static/media/persblog.jpg": "/ashik-ibrahim-portfolio-react/static/media/persblog.5c60f2613f0a16243e79.jpg",
-    "static/media/email.png": "/ashik-ibrahim-portfolio-react/static/media/email.761df3bc69bdc631bd2f.png",
-    "static/media/arrow.png": "/ashik-ibrahim-portfolio-react/static/media/arrow.0dfabb0beab795eea0ab.png",
     "static/media/linkedin.png": "/ashik-ibrahim-portfolio-react/static/media/linkedin.032cf8a63be2f0f4d425.png",
     "index.html": "/ashik-ibrahim-portfolio-react/index.html",
-    "main.4ae008e2.css.map": "/ashik-ibrahim-portfolio-react/static/css/main.4ae008e2.css.map",
-    "main.45f21d80.js.map": "/ashik-ibrahim-portfolio-react/static/js/main.45f21d80.js.map"
+    "main.a5258f7e.css.map": "/ashik-ibrahim-portfolio-react/static/css/main.a5258f7e.css.map",
+    "main.cbf1425c.js.map": "/ashik-ibrahim-portfolio-react/static/js/main.cbf1425c.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ae008e2.css",
-    "static/js/main.45f21d80.js"
+    "static/css/main.a5258f7e.css",
+    "static/js/main.cbf1425c.js"
   ]
 }
