@@ -8,7 +8,7 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 
 # Live Demo
 
-You can view the live demo of the personal portfolio [here](https://ashikibrahim07.github.io/ashik-ibrahim-portfolio-react/).
+You can view the live demo of the personal portfolio [here](https://ashikibrahim.netlify.app/).
 
 ## Table of Contents
 
@@ -21,25 +21,18 @@ You can view the live demo of the personal portfolio [here](https://ashikibrahim
 - [Author](#author)
 - [License](#license)
 
-  
 ## Features
 
 - **Responsive Design:** The portfolio is designed to be fully responsive, ensuring a great user experience across all devices.
-  
 - **Project Showcase:** Display my projects with descriptions, images, and links to GitHub, live demos and video demos.
-  
 - **Experience Section:** Highlight my skills and experiences in a clean and organized layout.
-  
 - **Contact Information:** Provide ways for visitors to get in touch with me, such as email and social media links.
 
 ## Technologies Used
 
 - `React`Used for building the frontend user interface and managing state.
-  
 - `Material UI` Provides a set of React components that implement Google's Material Design.
-  
 - `HTML/CSS` Used for styling and structuring the content.
-  
 - `GitHub Pages` Used for hosting the portfolio website.
 
 ## Installation
@@ -73,9 +66,11 @@ You can view the live demo of the personal portfolio [here](https://ashikibrahim
 2. Open your browser and visit `http://localhost:3000` to view the portfolio.
 
 # Contribution
+
 If you want to contribute to this project, please follow the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 # Acknowledgments
+
 - [Font Awesome](https://fontawesome.com/): Used for icons in the portfolio project.
 
 ## Author
