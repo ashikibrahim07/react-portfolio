@@ -1,5 +1,5 @@
 {
-  "homepage": "https://ashikibrahim07.github.io/personal-portfolio-react",
+  "homepage": "https://ashikibrahim07.github.io/personal-portfolio-react-v2.0",
   "name": "portfolio-app",
   "version": "0.1.0",
   "private": true,
@@ -22,7 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "echo 'No deploy script needed for Netlify'"
   },
   "eslintConfig": {
     "extends": [
