@@ -20,7 +20,7 @@ By participating in this project, you agree to abide by the [Contributor Covenan
 
 ### Reporting Bugs
 
-If you find a bug in the source code, you can help by submitting an issue to the [GitHub Repository](https://github.com/yourusername/your-repo). Please include:
+If you find a bug in the source code, you can help by submitting an issue to the [GitHub Repository](https://github.com/ashikibrahim07/react-portfolio). Please include:
 
 - A clear and descriptive title.
 - A detailed description of the issue.
@@ -29,7 +29,7 @@ If you find a bug in the source code, you can help by submitting an issue to the
 
 ### Suggesting Enhancements
 
-If you have a suggestion to improve the project, please submit an issue to the [GitHub Repository](https://github.com/yourusername/your-repo). Please include:
+If you have a suggestion to improve the project, please submit an issue to the [GitHub Repository](https://github.com/ashikibrahim07/react-portfolio). Please include:
 
 - A clear and descriptive title.
 - A detailed description of the enhancement.
@@ -54,8 +54,8 @@ To set up a development environment, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone (https://github.com/ashikibrahim07/react-portfolio.git
+   cd ashik-ibrahim-portfolio-react
    ```
 2. **Install Dependancies:**
    ```sh
