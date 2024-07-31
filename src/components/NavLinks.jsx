@@ -4,19 +4,24 @@ function NavLinks() {
   return (
     <ul className="nav-links">
       <li>
-        <a href="#profile">Home</a>
+        <a href="#about" className="nav-link">
+          About
+        </a>
       </li>
       <li>
-        <a href="#about">About</a>
+        <a href="#skills" className="nav-link">
+          Skills
+        </a>
       </li>
       <li>
-        <a href="#experience">Experience</a>
+        <a href="#projects" className="nav-link">
+          Projects
+        </a>
       </li>
       <li>
-        <a href="#projects">Projects</a>
-      </li>
-      <li>
-        <a href="#contact">Contact</a>
+        <a href="#contact" className="nav-link">
+          Contact
+        </a>
       </li>
     </ul>
   );

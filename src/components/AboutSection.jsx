@@ -1,7 +1,6 @@
 import React from "react";
 import experienceIcon from "../assets/experience.png";
 import educationIcon from "../assets/education.png";
-import arrowIcon from "../assets/arrow.png";
 
 function AboutSection() {
   return (
@@ -15,15 +14,17 @@ function AboutSection() {
               <img
                 src={experienceIcon}
                 alt="Experience icon"
-                className="icon"
+                className="icon exp"
               />
               <h3 className="exp-edu">Experience</h3>
-              <p>11 Months </p>
-              <p>Frontend Development </p>
-              <p>Freelancer</p>
+              <p>One year of hands on experience in Frontend Development </p>
             </div>
             <div className="details-container">
-              <img src={educationIcon} alt="Education icon" className="icon" />
+              <img
+                src={educationIcon}
+                alt="Education icon"
+                className="icon edu"
+              />
               <h3 className="exp-edu">Education</h3>
               <p>B.Sc. Computer Science ,</p>
               <p> M.Sc. Computer Science</p>
@@ -35,8 +36,8 @@ function AboutSection() {
               specializing in{" "}
               <strong className="strong">front-end development</strong> and the{" "}
               <strong className="strong">PERN stack.</strong>
-              Throughout my academic journey, I've delved deep into the
-              intricacies of modern web development, honing my skills in{" "}
+              Throughout my academic journey, I've focused deeply on modern web
+              development, improving my skills in{" "}
               <strong className="strong">
                 HTML, CSS, JavaScript, React.js,
               </strong>{" "}
@@ -53,12 +54,6 @@ function AboutSection() {
           </div>
         </div>
       </div>
-      <img
-        src={arrowIcon}
-        alt="Arrow icon"
-        className="icon arrow"
-        onClick={() => (window.location.href = "./#experience")}
-      />
     </section>
   );
 }

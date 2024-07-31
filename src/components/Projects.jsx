@@ -2,9 +2,11 @@ import React from "react";
 import project1Img from "../assets/FB Lite Clone.jpg";
 import project2Img from "../assets/persblog.jpg";
 import project3Img from "../assets/what-todo.png";
-
 import Chip from "@mui/material/Chip";
-import arrowIcon from "../assets/arrow.png";
+import GitHubIcon from "@mui/icons-material/GitHub";
+import PlayCircleOutlineIcon from "@mui/icons-material/PlayCircleOutline";
+import OpenInNewIcon from "@mui/icons-material/OpenInNew";
+
 function Projects() {
   return (
     <section id="projects">
@@ -12,7 +14,7 @@ function Projects() {
       <h1 className="prj-title">Projects</h1>
       <div className="experience-details-container">
         <div className="about-containers">
-          <div className="details-container color-container">
+          <div className="prj-details-container color-container">
             <div className="article-container">
               <img src={project1Img} alt="Project 1" className="project-img" />
             </div>
@@ -37,6 +39,20 @@ function Projects() {
                 marginBottom: "10px",
               }}
             />
+            <Chip
+              label="Font Awesome"
+              style={{
+                backgroundColor: "#2D9596",
+                color: "#0a192f",
+                fontWeight: "600",
+                marginRight: "8px",
+                marginBottom: "10px",
+              }}
+            />
+            <p className="prj-p">
+              This project is an attempt to replicate the core features and
+              design of Facebook Lite.
+            </p>
             <div className="btn-container">
               <a
                 href="https://github.com/ashikibrahim07/fb-lite-clone-using-html-css"
@@ -44,7 +60,8 @@ function Projects() {
                 rel="noreferrer"
                 className="btn btn-color-2 project-btn"
               >
-                Github
+                <GitHubIcon style={{ marginRight: "10px" }} />
+                GitHub
               </a>
               <a
                 href="https://ashikibrahim07.github.io/fb-lite-clone-using-html-css/"
@@ -52,12 +69,13 @@ function Projects() {
                 rel="noreferrer"
                 className="btn btn-color-2 project-btn"
               >
+                <OpenInNewIcon style={{ marginRight: "10px" }} />
                 Live Demo
               </a>
             </div>
           </div>
 
-          <div className="details-container color-container">
+          <div className="prj-details-container color-container">
             <div className="article-container">
               <img src={project2Img} alt="Project 2" className="project-img" />
             </div>
@@ -82,6 +100,10 @@ function Projects() {
                 marginBottom: "10px",
               }}
             />
+            <p className="prj-p">
+              This web app allows you to create posts, edit the posts, and
+              delete posts if needed.
+            </p>
             <div className="btn-container">
               <a
                 href="https://github.com/ashikibrahim07/pers-blog"
@@ -89,20 +111,22 @@ function Projects() {
                 rel="noreferrer"
                 className="btn btn-color-2 project-btn"
               >
-                Github
+                <GitHubIcon style={{ marginRight: "10px" }} />
+                GitHub
               </a>
               <a
-                href="https://github.com/"
+                href="https://youtu.be/cs0L2dWsQkQ?si=GSawkfebEKY7wcYh"
                 target="_blank"
                 rel="noreferrer"
                 className="btn btn-color-2 project-btn"
               >
-                Live Demo
+                <PlayCircleOutlineIcon style={{ marginRight: "5px" }} />
+                Video Demo
               </a>
             </div>
           </div>
 
-          <div className="details-container color-container">
+          <div className="prj-details-container color-container">
             <div className="article-container">
               <img src={project3Img} alt="Project 3" className="project-img" />
             </div>
@@ -137,6 +161,10 @@ function Projects() {
                 marginBottom: "10px",
               }}
             />
+            <p className="prj-p">
+              This PERN Stack web app allows you to create, check and remove
+              tasks.
+            </p>
             <div className="btn-container">
               <a
                 href="https://github.com/ashikibrahim07/what-todo"
@@ -144,21 +172,22 @@ function Projects() {
                 rel="noreferrer"
                 className="btn btn-color-2 project-btn"
               >
-                Github
+                <GitHubIcon style={{ marginRight: "10px" }} />
+                GitHub
               </a>
               <a
-                href="https://github.com/"
+                href="https://youtu.be/2N2Pg4Ezt6A?si=0U8j_nBG_J0JsW-z"
                 target="_blank"
                 rel="noreferrer"
                 className="btn btn-color-2 project-btn"
               >
-                Live Demo
+                <PlayCircleOutlineIcon style={{ marginRight: "5px" }} />
+                Video Demo
               </a>
             </div>
           </div>
         </div>
-
-        <div class="project-text-container">
+        <div className="project-text-container">
           <p>
             These are my main projects. If you're interested in exploring
             smaller projects you'll find them on my{" "}
@@ -173,14 +202,8 @@ function Projects() {
           </p>
         </div>
       </div>
-
-      <img
-        src={arrowIcon}
-        alt="Arrow icon"
-        className="icon arrow"
-        onClick={() => (window.location.href = "./#contact")}
-      />
     </section>
   );
 }
+
 export default Projects;

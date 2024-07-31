@@ -1,7 +1,8 @@
 import React from "react";
 import linkedinIcon from "../assets/linkedin.png";
 import githubIcon from "../assets/github.png";
-import resumeExamplePDF from "../assets/Ashik_Ibrahim_S_Web_Developer_Resume.pdf";
+import netlifyIcon from "../assets/netlify.png";
+import resumeExamplePDF from "../assets/Ashik_Ibrahim_React_Dev_Resume.pdf";
 import Tooltip from "@mui/material/Tooltip";
 
 function ProfileSection() {
@@ -45,6 +46,17 @@ function ProfileSection() {
               className="icon"
               onClick={() =>
                 (window.location.href = "https://github.com/ashikibrahim07")
+              }
+            />
+          </Tooltip>
+          <Tooltip title="Netlify Profile">
+            <img
+              src={netlifyIcon}
+              alt="My Netlify profile"
+              className="icon"
+              onClick={() =>
+                (window.location.href =
+                  "https://app.netlify.com/teams/ashikibrahim07/sites")
               }
             />
           </Tooltip>

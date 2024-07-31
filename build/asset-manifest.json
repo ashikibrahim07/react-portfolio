@@ -1,21 +1,18 @@
 {
   "files": {
-    "main.css": "/personal-portfolio-react-v2.0/static/css/main.508e8514.css",
-    "main.js": "/personal-portfolio-react-v2.0/static/js/main.a2b842db.js",
-    "static/media/FB Lite Clone.jpg": "/personal-portfolio-react-v2.0/static/media/FB Lite Clone.f82b6ef8f816bef8b1fe.jpg",
-    "static/media/Ashik_Ibrahim_S_Web_Developer_Resume.pdf": "/personal-portfolio-react-v2.0/static/media/Ashik_Ibrahim_S_Web_Developer_Resume.6020a7a451a406bbe423.pdf",
-    "static/media/what-todo.png": "/personal-portfolio-react-v2.0/static/media/what-todo.38cbb7e0c310fe66363c.png",
-    "static/media/persblog.jpg": "/personal-portfolio-react-v2.0/static/media/persblog.5c60f2613f0a16243e79.jpg",
-    "static/media/email.png": "/personal-portfolio-react-v2.0/static/media/email.761df3bc69bdc631bd2f.png",
-    "static/media/checkmark.png": "/personal-portfolio-react-v2.0/static/media/checkmark.86728d9a224a2c7c95d4.png",
-    "static/media/arrow.png": "/personal-portfolio-react-v2.0/static/media/arrow.0dfabb0beab795eea0ab.png",
-    "static/media/linkedin.png": "/personal-portfolio-react-v2.0/static/media/linkedin.032cf8a63be2f0f4d425.png",
-    "index.html": "/personal-portfolio-react-v2.0/index.html",
-    "main.508e8514.css.map": "/personal-portfolio-react-v2.0/static/css/main.508e8514.css.map",
-    "main.a2b842db.js.map": "/personal-portfolio-react-v2.0/static/js/main.a2b842db.js.map"
+    "main.css": "/ashik-ibrahim-portfolio-react/static/css/main.4c6ab3c7.css",
+    "main.js": "/ashik-ibrahim-portfolio-react/static/js/main.903dad16.js",
+    "static/media/FB Lite Clone.jpg": "/ashik-ibrahim-portfolio-react/static/media/FB Lite Clone.f82b6ef8f816bef8b1fe.jpg",
+    "static/media/Ashik_Ibrahim_React_Dev_Resume.pdf": "/ashik-ibrahim-portfolio-react/static/media/Ashik_Ibrahim_React_Dev_Resume.f58f26603a5afd07f470.pdf",
+    "static/media/what-todo.png": "/ashik-ibrahim-portfolio-react/static/media/what-todo.38cbb7e0c310fe66363c.png",
+    "static/media/persblog.jpg": "/ashik-ibrahim-portfolio-react/static/media/persblog.5c60f2613f0a16243e79.jpg",
+    "static/media/linkedin.png": "/ashik-ibrahim-portfolio-react/static/media/linkedin.032cf8a63be2f0f4d425.png",
+    "index.html": "/ashik-ibrahim-portfolio-react/index.html",
+    "main.4c6ab3c7.css.map": "/ashik-ibrahim-portfolio-react/static/css/main.4c6ab3c7.css.map",
+    "main.903dad16.js.map": "/ashik-ibrahim-portfolio-react/static/js/main.903dad16.js.map"
   },
   "entrypoints": [
-    "static/css/main.508e8514.css",
-    "static/js/main.a2b842db.js"
+    "static/css/main.4c6ab3c7.css",
+    "static/js/main.903dad16.js"
   ]
 }

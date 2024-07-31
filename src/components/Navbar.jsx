@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import "../styles/style.css";
-import "../styles/mediaqueries.css";
 import Drawer from "@mui/material/Drawer";
 import List from "@mui/material/List";
 import ListItemButton from "@mui/material/ListItemButton";
@@ -43,13 +42,10 @@ function Navbar() {
           >
             <List style={{ backgroundColor: "#0a192f", height: "100vh" }}>
               <ListItemButton>
-                <a href="#profile">Home</a>
-              </ListItemButton>
-              <ListItemButton>
                 <a href="#about">About</a>
               </ListItemButton>
               <ListItemButton>
-                <a href="#experience">Experience</a>
+                <a href="#skills">Skills</a>
               </ListItemButton>
               <ListItemButton>
                 <a href="#projects">Projects</a>
@@ -61,18 +57,13 @@ function Navbar() {
           </Drawer>
           <div className={`menu-links ${menuOpen ? "open" : ""}`}>
             <li>
-              <a href="#profile" onClick={toggleMenu}>
-                Home
-              </a>
-            </li>
-            <li>
               <a href="#about" onClick={toggleMenu}>
                 About
               </a>
             </li>
             <li>
-              <a href="#experience" onClick={toggleMenu}>
-                Experience
+              <a href="#skills" onClick={toggleMenu}>
+                Skills
               </a>
             </li>
             <li>
