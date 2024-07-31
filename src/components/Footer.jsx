@@ -14,7 +14,7 @@ function Footer() {
       <footer>
         <p>
           Coded in <b>Visual Studio Code</b>. Built with <b>React.js</b> and
-          <b> Material UI</b>, deployed with <b>GitHub pages</b>.
+          <b> Material UI</b>, deployed with <b>Netlify</b>.
         </p>
         <br />
         <p id="copyRight">

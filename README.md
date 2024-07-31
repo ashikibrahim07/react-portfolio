@@ -33,7 +33,7 @@ You can view the live demo of the personal portfolio [here](https://ashikibrahim
 - `React`Used for building the frontend user interface and managing state.
 - `Material UI` Provides a set of React components that implement Google's Material Design.
 - `HTML/CSS` Used for styling and structuring the content.
-- `GitHub Pages` Used for hosting the portfolio website.
+- `Netlify` Used for hosting the portfolio website.
 
 ## Installation
 
