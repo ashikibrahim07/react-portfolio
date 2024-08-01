@@ -2,7 +2,7 @@ import React from "react";
 import linkedinIcon from "../assets/linkedin.png";
 import githubIcon from "../assets/github.png";
 import netlifyIcon from "../assets/netlify.png";
-import resumeExamplePDF from "../assets/Ashik_Ibrahim_React_Dev_Resume.pdf";
+import resumeExamplePDF from "../assets/Ashik_Ibrahim_React_Developer_Resume.pdf";
 import Tooltip from "@mui/material/Tooltip";
 
 function ProfileSection() {
