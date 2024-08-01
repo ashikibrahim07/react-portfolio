@@ -40,7 +40,7 @@ You can view the live demo of the personal portfolio [here](https://ashikibrahim
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ashikibrahim07/ashik-ibrahim-portfolio-react.git
+   git clone https://github.com/ashikibrahim07/react-portfolio.git
    ```
 
 2. Navigate to the project directory:
