@@ -456,8 +456,9 @@ article .icon,
 }
 .project-img {
   border-radius: 0.5rem;
-  height: 200px;
+  height: 300px;
   width: auto;
+  object-fit: fill;
   transition: transform 0.3s ease;
 }
 .project-title {
@@ -482,7 +483,7 @@ article .icon,
 .prj-p,
 .p-detail {
   font-size: 14px !important;
-  text-align: justify;
+  text-align: center;
   color: var(--secondary-color);
 }
 
@@ -517,7 +518,7 @@ article .icon,
   border: 0.05px solid var(--accent-color) !important;
   border-radius: 0.5rem;
   font-size: 18px;
-  font-weight: bold;
+  font-family: "Poppins", sans-serif !important;
   cursor: pointer;
 }
 .mail:hover {
@@ -580,6 +581,63 @@ article .icon,
 }
 
 /* Media Queries */
+
+@media screen and (min-width: 1440px) {
+  #contact {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50rem;
+    padding: 2rem;
+    height: auto;
+    min-height: 70vh;
+    justify-content: center;
+  }
+
+  .contact-info-upper-container {
+    display: flex;
+    justify-content: center;
+    margin: 2rem auto;
+    padding: 1rem;
+    border-radius: 0.5rem;
+  }
+
+  .contact-info-container {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+  }
+
+  .mail {
+    background-color: var(--background-color);
+    color: var(--accent-color);
+    padding: 15px 24px;
+    border: 0.05rem solid var(--accent-color) !important;
+    border-radius: 0.5rem;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    margin: 0.5rem;
+  }
+
+  .mail:hover {
+    background: var(--highlight-color);
+    color: var(--background-color);
+  }
+
+  .contact-info-container p {
+    font-size: larger;
+  }
+
+  .contact-icon {
+    cursor: pointer;
+  }
+
+  .cnt-a {
+    letter-spacing: 0.1px;
+  }
+}
+
 @media screen and (max-width: 1400px) {
   .abt-title,
   .cnt-title,

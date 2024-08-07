@@ -1,7 +1,8 @@
 import React from "react";
-import project1Img from "../assets/FB Lite Clone.jpg";
-import project2Img from "../assets/persblog.jpg";
-import project3Img from "../assets/what-todo.png";
+import project1Img from "../assets/FB-LITE.png";
+import project2Img from "../assets/PERSBLOG.png";
+import project3Img from "../assets/WHAT_TODO.png";
+import project4Img from "../assets/XOXOXO.png";
 import Chip from "@mui/material/Chip";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import PlayCircleOutlineIcon from "@mui/icons-material/PlayCircleOutline";
@@ -50,8 +51,8 @@ function Projects() {
               }}
             />
             <p className="prj-p">
-              This project is an attempt to replicate the core features and
-              design of Facebook Lite.
+              A responsive replica of Facebook Lite built with HTML, CSS, and
+              Font Awesome. Featuring seven core feautures of FB Lite.
             </p>
             <div className="btn-container">
               <a
@@ -74,7 +75,69 @@ function Projects() {
               </a>
             </div>
           </div>
-
+          <div className="prj-details-container color-container">
+            <div className="article-container">
+              <img src={project4Img} alt="Project 1" className="project-img" />
+            </div>
+            <h2 className=" project-title">XO XO XO, a Tic Tac Toe Game</h2>
+            <Chip
+              label="HTML"
+              style={{
+                backgroundColor: "#2D9596",
+                color: "#0a192f",
+                fontWeight: "600",
+                marginRight: "8px",
+                marginBottom: "10px",
+              }}
+            />
+            <Chip
+              label="CSS"
+              style={{
+                backgroundColor: "#2D9596",
+                color: "#0a192f",
+                fontWeight: "600",
+                marginRight: "8px",
+                marginBottom: "10px",
+              }}
+            />
+            <Chip
+              label="JavaScript"
+              style={{
+                backgroundColor: "#2D9596",
+                color: "#0a192f",
+                fontWeight: "600",
+                marginRight: "8px",
+                marginBottom: "10px",
+              }}
+            />
+            <p className="prj-p">
+              A classic Tic Tac Toe game using HTML, CSS, and JavaScript.
+              Features interactive gameplay, smooth animations, and responsive
+              design.
+            </p>
+            <div className="btn-container">
+              <a
+                href="https://github.com/ashikibrahim07/tic-tac-toe-game"
+                target="_blank"
+                rel="noreferrer"
+                className="btn btn-color-2 project-btn"
+              >
+                <GitHubIcon style={{ marginRight: "10px" }} />
+                GitHub
+              </a>
+              <a
+                href="https://xo-xo-xo.netlify.app/"
+                target="_blank"
+                rel="noreferrer"
+                className="btn btn-color-2 project-btn"
+              >
+                <OpenInNewIcon style={{ marginRight: "10px" }} />
+                Live Demo
+              </a>
+            </div>
+          </div>
+        </div>
+        <div className="about-containers">
           <div className="prj-details-container color-container">
             <div className="article-container">
               <img src={project2Img} alt="Project 2" className="project-img" />
@@ -100,9 +163,20 @@ function Projects() {
                 marginBottom: "10px",
               }}
             />
+            <Chip
+              label="Bootstrap"
+              style={{
+                backgroundColor: "#2D9596",
+                color: "#0a192f",
+                fontWeight: "600",
+                marginRight: "8px",
+                marginBottom: "10px",
+              }}
+            />
             <p className="prj-p">
-              This web app allows you to create posts, edit the posts, and
-              delete posts if needed.
+              A Node.js and EJS-based web app for creating, editing, and
+              deleting blog posts. Offers a user-friendly interface for easy
+              content management.
             </p>
             <div className="btn-container">
               <a
@@ -162,8 +236,9 @@ function Projects() {
               }}
             />
             <p className="prj-p">
-              This PERN Stack web app allows you to create, check and remove
-              tasks.
+              A PERN stack application for managing tasks. Create, check, and
+              remove tasks with a clean, React-powered interface and PostgreSQL
+              backend.
             </p>
             <div className="btn-container">
               <a
