@@ -1,8 +1,8 @@
 import React from "react";
 import project1Img from "../assets/FB-LITE.png";
-import project2Img from "../assets/PERSBLOG.png";
-import project3Img from "../assets/WHAT_TODO.png";
-import project4Img from "../assets/XOXOXO.png";
+import project2Img from "../assets/XOXOXO.png";
+import project3Img from "../assets/PERSBLOG.png";
+import project4Img from "../assets/WHAT_TODO.png";
 import Chip from "@mui/material/Chip";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import PlayCircleOutlineIcon from "@mui/icons-material/PlayCircleOutline";
@@ -17,9 +17,14 @@ function Projects() {
         <div className="about-containers">
           <div className="prj-details-container color-container">
             <div className="article-container">
-              <img src={project1Img} alt="Project 1" className="project-img" />
+              <img
+                src={project1Img}
+                alt="Project 1"
+                className="project-img"
+                style={{ width: "auto", height: "300px", objectFit: "cover" }}
+              />
             </div>
-            <h2 className=" project-title">Fb Lite Clone</h2>
+            <h2 className="project-title">Fb Lite Clone</h2>
             <Chip
               label="HTML"
               style={{
@@ -52,7 +57,7 @@ function Projects() {
             />
             <p className="prj-p">
               A responsive replica of Facebook Lite built with HTML, CSS, and
-              Font Awesome. Featuring seven core feautures of FB Lite.
+              Font Awesome. Featuring seven core features of FB Lite.
             </p>
             <div className="btn-container">
               <a
@@ -77,9 +82,14 @@ function Projects() {
           </div>
           <div className="prj-details-container color-container">
             <div className="article-container">
-              <img src={project4Img} alt="Project 1" className="project-img" />
+              <img
+                src={project2Img}
+                alt="Project 2"
+                className="project-img"
+                style={{ width: "auto", height: "300px", objectFit: "cover" }}
+              />
             </div>
-            <h2 className=" project-title">XO XO XO, a Tic Tac Toe Game</h2>
+            <h2 className="project-title">XO XO XO, a Tic Tac Toe Game</h2>
             <Chip
               label="HTML"
               style={{
@@ -140,9 +150,14 @@ function Projects() {
         <div className="about-containers">
           <div className="prj-details-container color-container">
             <div className="article-container">
-              <img src={project2Img} alt="Project 2" className="project-img" />
+              <img
+                src={project3Img}
+                alt="Project 3"
+                className="project-img"
+                style={{ width: "auto", height: "300px", objectFit: "cover" }}
+              />
             </div>
-            <h2 className=" project-title">Personal Blog site</h2>
+            <h2 className="project-title">Personal Blog site</h2>
             <Chip
               label="Node.js"
               style={{
@@ -202,9 +217,14 @@ function Projects() {
 
           <div className="prj-details-container color-container">
             <div className="article-container">
-              <img src={project3Img} alt="Project 3" className="project-img" />
+              <img
+                src={project4Img}
+                alt="Project 4"
+                className="project-img"
+                style={{ width: "auto", height: "300px", objectFit: "cover" }}
+              />
             </div>
-            <h2 className=" project-title">TODO List</h2>
+            <h2 className="project-title">TODO List</h2>
             <Chip
               label="React"
               style={{
@@ -216,7 +236,7 @@ function Projects() {
               }}
             />
             <Chip
-              label="Node.js"
+              label="Express.js"
               style={{
                 backgroundColor: "#2D9596",
                 color: "#0a192f",
@@ -236,13 +256,12 @@ function Projects() {
               }}
             />
             <p className="prj-p">
-              A PERN stack application for managing tasks. Create, check, and
-              remove tasks with a clean, React-powered interface and PostgreSQL
-              backend.
+              A full-stack TODO list application using React, Express.js, and
+              PostgreSQL. Features CRUD operations and user authentication.
             </p>
             <div className="btn-container">
               <a
-                href="https://github.com/ashikibrahim07/what-todo"
+                href="https://github.com/ashikibrahim07/todo-app"
                 target="_blank"
                 rel="noreferrer"
                 className="btn btn-color-2 project-btn"
@@ -251,30 +270,16 @@ function Projects() {
                 GitHub
               </a>
               <a
-                href="https://youtu.be/2N2Pg4Ezt6A?si=0U8j_nBG_J0JsW-z"
+                href="https://what-todo.onrender.com/"
                 target="_blank"
                 rel="noreferrer"
                 className="btn btn-color-2 project-btn"
               >
-                <PlayCircleOutlineIcon style={{ marginRight: "5px" }} />
-                Video Demo
+                <OpenInNewIcon style={{ marginRight: "10px" }} />
+                Live Demo
               </a>
             </div>
           </div>
-        </div>
-        <div className="project-text-container">
-          <p>
-            These are my main projects. If you're interested in exploring
-            smaller projects you'll find them on my{" "}
-            <span>
-              <strong>
-                <a href="https://github.com/ashikibrahim07?tab=repositories">
-                  GitHub
-                </a>
-              </strong>
-            </span>
-            .
-          </p>
         </div>
       </div>
     </section>

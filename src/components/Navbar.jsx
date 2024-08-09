@@ -21,14 +21,14 @@ function Navbar() {
     <>
       <nav id="desktop-nav">
         <div className="logo">
-          <h1 className="name">Ashik Ibrahim S</h1>
+          <h1 className="name">Ashik Ibrahim</h1>
         </div>
         <div>
           <NavLinks />
         </div>
       </nav>
       <nav id="hamburger-nav">
-        <div className="logo">Ashik Ibrahim S</div>
+        <div className="logo">Ashik Ibrahim</div>
         <div className="hamburger-menu">
           <div className="hamburger-icon" onClick={toggleDrawer(true)}>
             <span></span>
@@ -56,26 +56,28 @@ function Navbar() {
             </List>
           </Drawer>
           <div className={`menu-links ${menuOpen ? "open" : ""}`}>
-            <li>
-              <a href="#about" onClick={toggleMenu}>
-                About
-              </a>
-            </li>
-            <li>
-              <a href="#skills" onClick={toggleMenu}>
-                Skills
-              </a>
-            </li>
-            <li>
-              <a href="#projects" onClick={toggleMenu}>
-                Projects
-              </a>
-            </li>
-            <li>
-              <a href="#contact" onClick={toggleMenu}>
-                Contact
-              </a>
-            </li>
+            <ul>
+              <li>
+                <a href="#about" onClick={toggleMenu}>
+                  About
+                </a>
+              </li>
+              <li>
+                <a href="#skills" onClick={toggleMenu}>
+                  Skills
+                </a>
+              </li>
+              <li>
+                <a href="#projects" onClick={toggleMenu}>
+                  Projects
+                </a>
+              </li>
+              <li>
+                <a href="#contact" onClick={toggleMenu}>
+                  Contact
+                </a>
+              </li>
+            </ul>
           </div>
         </div>
       </nav>

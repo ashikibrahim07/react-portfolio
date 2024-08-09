@@ -16,7 +16,7 @@ function AboutSection() {
                 alt="Experience icon"
                 className="icon exp"
               />
-              <h3 className="exp-edu">Experience</h3>
+              <h2 className="exp-edu">Experience</h2>
               <p>One year of hands on experience in Frontend Development </p>
             </div>
             <div className="details-container">
@@ -25,7 +25,7 @@ function AboutSection() {
                 alt="Education icon"
                 className="icon edu"
               />
-              <h3 className="exp-edu">Education</h3>
+              <h2 className="exp-edu">Education</h2>
               <p>B.Sc. Computer Science ,</p>
               <p> M.Sc. Computer Science</p>
             </div>
