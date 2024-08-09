@@ -159,7 +159,7 @@ function Projects() {
             </div>
             <h2 className="project-title">Personal Blog site</h2>
             <Chip
-              label="Node.js"
+              label="Node JS"
               style={{
                 backgroundColor: "#2D9596",
                 color: "#0a192f",
@@ -226,27 +226,37 @@ function Projects() {
             </div>
             <h2 className="project-title">TODO List</h2>
             <Chip
-              label="React"
-              style={{
-                backgroundColor: "#2D9596",
-                color: "#0a192f",
-                fontWeight: "600",
-                marginRight: "8px",
-                marginBottom: "10px",
-              }}
-            />
-            <Chip
-              label="Express.js"
-              style={{
-                backgroundColor: "#2D9596",
-                color: "#0a192f",
-                fontWeight: "600",
-                marginRight: "8px",
-                marginBottom: "10px",
-              }}
-            />
-            <Chip
               label="PostgreSQL"
+              style={{
+                backgroundColor: "#2D9596",
+                color: "#0a192f",
+                fontWeight: "600",
+                marginRight: "8px",
+                marginBottom: "10px",
+              }}
+            />
+            <Chip
+              label="Express JS"
+              style={{
+                backgroundColor: "#2D9596",
+                color: "#0a192f",
+                fontWeight: "600",
+                marginRight: "8px",
+                marginBottom: "10px",
+              }}
+            />
+            <Chip
+              label="React JS"
+              style={{
+                backgroundColor: "#2D9596",
+                color: "#0a192f",
+                fontWeight: "600",
+                marginRight: "8px",
+                marginBottom: "10px",
+              }}
+            />
+            <Chip
+              label="Node JS"
               style={{
                 backgroundColor: "#2D9596",
                 color: "#0a192f",
@@ -261,7 +271,7 @@ function Projects() {
             </p>
             <div className="btn-container">
               <a
-                href="https://github.com/ashikibrahim07/todo-app"
+                href="https://github.com/ashikibrahim07/what-todo"
                 target="_blank"
                 rel="noreferrer"
                 className="btn btn-color-2 project-btn"
@@ -270,13 +280,13 @@ function Projects() {
                 GitHub
               </a>
               <a
-                href="https://what-todo.onrender.com/"
+                href="https://youtu.be/2N2Pg4Ezt6A?si=IOw7odMrm2P-MzRg"
                 target="_blank"
                 rel="noreferrer"
                 className="btn btn-color-2 project-btn"
               >
-                <OpenInNewIcon style={{ marginRight: "10px" }} />
-                Live Demo
+                <PlayCircleOutlineIcon style={{ marginRight: "5px" }} />
+                Video Demo
               </a>
             </div>
           </div>
