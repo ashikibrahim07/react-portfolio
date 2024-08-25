@@ -3,51 +3,103 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <meta name="Author" content="Ashik Ibrahim" />
+    <meta name="author" content="Ashik Ibrahim" />
     <meta
       name="description"
       content="Welcome to Ashik Ibrahim's portfolio. Explore my projects, skills, and achievements in web development. I specialize in creating responsive and dynamic web applications."
     />
+    <meta
+      name="keywords"
+      content="Ashik Ibrahim, React Developer, Web Developer, PERN Stack, Portfolio, Web Development"
+    />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" />
-
     <link
       rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap"
     />
 
     <link rel="preconnect" href="https://cdnjs.cloudflare.com" />
-
     <link
       rel="preload"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
       as="style"
       onload="this.rel='stylesheet'"
     />
-    <noscript>
-      <link
+    <noscript
+      ><link
         rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
-      />
-    </noscript>
+    /></noscript>
 
     <link rel="icon" href="../src/assets/AI_logo.png" />
+    <link rel="canonical" href="https://ashikibrahim.netlify.app" />
 
-    <title>Ashik Ibrahim Portfolio</title>
+    <title>
+      Ashik Ibrahim | React Developer Portfolio | PERN Stack Developer
+    </title>
 
-    <!-- Google tag (gtag.js) -->
+    <!-- Open Graph Meta Tags -->
+    <meta
+      property="og:title"
+      content="Ashik Ibrahim | React Developer Portfolio"
+    />
+    <meta
+      property="og:description"
+      content="Explore my projects, skills, and achievements in web development. I specialize in creating responsive and dynamic web applications."
+    />
+    <meta
+      property="og:image"
+      content="https://ashikibrahim.netlify.app/path-to-your-image.jpg"
+    />
+    <meta property="og:url" content="https://ashikibrahim.netlify.app" />
+    <meta property="og:type" content="website" />
+
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:title"
+      content="Ashik Ibrahim | React Developer Portfolio"
+    />
+    <meta
+      name="twitter:description"
+      content="Explore my projects, skills, and achievements in web development."
+    />
+    <meta
+      name="twitter:image"
+      content="https://ashikibrahim.netlify.app/path-to-your-image.jpg"
+    />
+
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Ashik Ibrahim",
+        "jobTitle": "React Developer",
+        "url": "https://ashikibrahim.netlify.app",
+        "sameAs": [
+          "https://www.linkedin.com/in/ashik-ibrahim-s/",
+          "https://github.com/ashikibrahim07"
+        ],
+        "description": "I specialize in creating responsive and dynamic web applications.",
+        "image": "https://ashikibrahim.netlify.app/path-to-your-image.jpg"
+      }
+    </script>
+
+    <!-- Google Analytics -->
     <script
       async
       src="https://www.googletagmanager.com/gtag/js?id=G-FVJR0PBFV6"
+      defer
     ></script>
-    <script>
+    <script defer>
       window.dataLayer = window.dataLayer || [];
       function gtag() {
         dataLayer.push(arguments);
       }
       gtag("js", new Date());
-
       gtag("config", "G-FVJR0PBFV6");
     </script>
   </head>
