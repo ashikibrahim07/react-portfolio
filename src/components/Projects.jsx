@@ -70,7 +70,7 @@ function Projects() {
                 GitHub
               </a>
               <a
-                href="https://ashikibrahim07.github.io/fb-lite-clone-using-html-css/"
+                href="https://fb-lite-clone.netlify.app/"
                 target="_blank"
                 rel="noreferrer"
                 className="btn btn-color-2 project-btn"

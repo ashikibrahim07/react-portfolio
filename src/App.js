@@ -1,22 +1,25 @@
-import React from "react";
-import Navbar from "./components/Navbar";
-import ProfileSection from "./components/ProfileSection";
-import AboutSection from "./components/AboutSection";
-import Skills from "./components/Skills";
-import Projects from "./components/Projects";
-import Contact from "./components/Contact";
-import Footer from "./components/Footer";
+import React, { Suspense, lazy } from "react";
+
+const Navbar = lazy(() => import("./components/Navbar"));
+const ProfileSection = lazy(() => import("./components/ProfileSection"));
+const AboutSection = lazy(() => import("./components/AboutSection"));
+const Skills = lazy(() => import("./components/Skills"));
+const Projects = lazy(() => import("./components/Projects"));
+const Contact = lazy(() => import("./components/Contact"));
+const Footer = lazy(() => import("./components/Footer"));
 
 function App() {
   return (
     <div>
-      <Navbar />
-      <ProfileSection />
-      <AboutSection />
-      <Skills />
-      <Projects />
-      <Contact />
-      <Footer />
+      <Suspense fallback={<div>Loading...</div>}>
+        <Navbar />
+        <ProfileSection />
+        <AboutSection />
+        <Skills />
+        <Projects />
+        <Contact />
+        <Footer />
+      </Suspense>
     </div>
   );
 }
