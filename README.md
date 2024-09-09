@@ -4,7 +4,7 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 
 ## 🌐 Preview
 
-![Portfolio Preview](https://github.com/ashikibrahim07/react-portfolio/blob/main/React_Portfolio_Snap.png)
+![Portfolio Preview](https://github.com/ashikibrahim07/react-portfolio/blob/main/public/React_Portfolio_Snap.png)
 
 ## 🚀 Live Demo
 
