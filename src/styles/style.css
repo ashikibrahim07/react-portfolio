@@ -400,7 +400,6 @@ img {
   text-align: justify;
 }
 #experience,
-#projects,
 #contact {
   position: relative;
   top: 100px;
@@ -492,7 +491,7 @@ article .icon,
   display: flex;
   margin-top: 2rem;
   flex-direction: column;
-  height: 70vh;
+  height: 60vh;
   justify-content: center;
 }
 .contact-info-upper-container {
@@ -582,7 +581,6 @@ article .icon,
   #contact {
     display: flex;
     flex-direction: column;
-    margin-top: 50rem;
     padding: 2rem;
     height: auto;
     min-height: 70vh;
